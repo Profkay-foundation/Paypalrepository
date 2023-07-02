@@ -7,8 +7,11 @@ Welcome declan rice
 declan rice deal done
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Declan rice medicals scheduled
 >>>>>>> 75d0016 (Declan rice medical is set)
+=======
+>>>>>>> 00a106c (Declan rice is deal done)
 =======
 >>>>>>> 00a106c (Declan rice is deal done)
 =======
